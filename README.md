@@ -1,11 +1,10 @@
 ### Welcome👋 itonse's github 
 ---
-<p>
-  <samp>
-    🌱 I’m currently learning JAVA, Spring Boot <br>
-    💡 I'm interested in Data Processing, Clean Code
-  </samp>
-</p>
+
+🌱 I’m currently learning JAVA, Spring Boot <br>
+
+💡 I'm interested in Data Processing, Clean Code <br><br>
+
 
 <!--
 **itonse/itonse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
