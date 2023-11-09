@@ -1,9 +1,7 @@
 ### Welcome👋 itonse's github 
 ---
 
-🌱 I’m currently learning - JAVA, Spring Boot <br>
-
-💡 I'm interested in - Data Processing, Clean Code <br><br>
+🌱 I’m currently learning - JAVA, Spring Boot <br><br>
 
 
 <!--
