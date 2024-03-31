@@ -1,6 +1,3 @@
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fitonse%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ### Welcome👋 itonse's github 
 ---
 
@@ -9,6 +6,8 @@
 
 
 <!--
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fitonse%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 **itonse/itonse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -29,30 +28,31 @@ Here are some ideas to get you started:
 
 <br>
 
-##### - Tech Stack
+#### Tech Stack
 
-##### Back-End
-![Java](https://img.shields.io/badge/Java-007396?&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?&logo=SpringBoot&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-222222?&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?&logo=MySQL&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?&logo=Docker&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?&logo=AmazonEC2&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?&logo=githubactions&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?&logo=Redis&logoColor=white)
-![elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?&logo=Elasticsearch&logoColor=white)
-
+#####  Main
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-007396?&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?&logo=SpringBoot&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/JPA-222222?&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Gradle-02303A?&logo=Gradle&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?&logo=MySQL&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?&logo=Docker&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=JUnit5&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Redis-DC382D?&logo=Redis&logoColor=white"/></a><br>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/AWS%20EC2-FF9900?&logo=AmazonEC2&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?&logo=githubactions&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Svelte-FF3E00?&logo=svelte&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/vercel-000000?&logo=vercel&logoColor=white"/></a>
 
 ##### Collab
-![Git](https://img.shields.io/badge/Git-F05032?&logo=Git&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?&logo=Slack&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?&logo=Notion&logoColor=white)
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?&logo=Git&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?&logo=GitHub&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?&logo=Slack&logoColor=white"/></a>
 
-##### Data
-![Python](https://img.shields.io/badge/Python-3776AB?&logo=Python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?&logo=R&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-225593?&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?&logo=microsoftsqlserver&logoColor=white)
-![Gephi](https://img.shields.io/badge/Gephi-222222?&logoColor=white)
+##### Data Analytics
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?&logo=Python&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/R-276DC3?&logo=R&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/pandas-150458?&logo=pandas&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?&logo=numpy&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/SQL%20Server-CC2927?&logo=microsoftsqlserver&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Gephi-222222?&logoColor=white"/></a>
