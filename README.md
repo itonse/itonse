@@ -49,10 +49,10 @@ Here are some ideas to get you started:
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?&logo=GitHub&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?&logo=Slack&logoColor=white"/></a>
 
-##### Data Analytics
+##### Data/DL
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?&logo=Python&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/R-276DC3?&logo=R&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/pandas-150458?&logo=pandas&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?&logo=numpy&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/SQL%20Server-CC2927?&logo=microsoftsqlserver&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Gephi-222222?&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?&logo=pytorch&logoColor=white"/></a>
