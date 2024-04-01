@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/AWS%20EC2-FF9900?&logo=AmazonEC2&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?&logo=githubactions&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Svelte-FF3E00?&logo=svelte&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/vercel-000000?&logo=vercel&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?&logo=vercel&logoColor=white"/></a>
 
 ##### Collab
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?&logo=Git&logoColor=white"/></a>
@@ -51,7 +51,8 @@ Here are some ideas to get you started:
 ##### Data/DL
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?&logo=Python&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/R-276DC3?&logo=R&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/pandas-150458?&logo=pandas&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?&logo=pandas&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?&logo=numpy&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-225593?&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Gephi-222222?&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?&logo=pytorch&logoColor=white"/></a>
