@@ -6,10 +6,9 @@
 <div align=center>
   
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:govl3dnjs@gmail.com)](mailto:govl3dnjs@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itonse/)](https://www.linkedin.com/in/itonse/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itonse)](https://www.linkedin.com/in/itonse) 
 [![Velog Badge](http://img.shields.io/badge/Velog-20C997?&logo=Velog&logoColor=white&link=https://velog.io/@itonse/posts)](https://velog.io/@itonse/posts) 
-</div>
-<br>
+</div><br>
 
 <!--
 **itonse/itonse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
