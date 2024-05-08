@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### 👻  My Blog
-
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=itonse)](https://velog.io/@itonse)
