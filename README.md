@@ -41,7 +41,6 @@ Here are some ideas to get you started:
 
 ##### Collab
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?&logo=Git&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?&logo=GitHub&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?&logo=Slack&logoColor=white"/></a>
 
 ##### Data
@@ -50,4 +49,3 @@ Here are some ideas to get you started:
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?&logo=pandas&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?&logo=numpy&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-225593?&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Gephi-222222?&logoColor=white"/></a>
