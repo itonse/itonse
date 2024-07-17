@@ -30,10 +30,7 @@ Here are some ideas to get you started:
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/JPA-222222?&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?&logo=MySQL&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?&logo=Docker&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=JUnit5&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Redis-DC382D?&logo=Redis&logoColor=white"/></a><br>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/AWS%20EC2-FF9900?&logo=AmazonEC2&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/AWS%20S3-569A31?&logo=AmazonS3&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?&logo=githubactions&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Gradle-02303A?&logo=Gradle&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Svelte-FF3E00?&logo=svelte&logoColor=white"/></a>
