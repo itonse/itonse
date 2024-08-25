@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?&logo=githubactions&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Gradle-02303A?&logo=Gradle&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Svelte-FF3E00?&logo=svelte&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?&logo=vercel&logoColor=white"/></a>
 
 ##### Collab
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?&logo=Git&logoColor=white"/></a>
