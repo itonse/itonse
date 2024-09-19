@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Blog
+#### Blog (Project, Tech, Study)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=itonse)](https://velog.io/@itonse)
 
