@@ -43,5 +43,3 @@ Here are some ideas to get you started:
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?&logo=Python&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/R-276DC3?&logo=R&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?&logo=pandas&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?&logo=numpy&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-225593?&logoColor=white"/></a>
